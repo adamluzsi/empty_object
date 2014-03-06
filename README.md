@@ -40,11 +40,9 @@ test.woooooooooooooooooooorld!
 
 ### Only pre defined methods will be
 ```ruby
-
 alias
 __send__
 object_id
-
 ```
 
 Have fun metaprogramming! :)
