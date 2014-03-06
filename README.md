@@ -38,9 +38,13 @@ test.woooooooooooooooooooorld!
 
 ```
 
-Only defined methods are
-* alias
-* __send__
-* object_id
+### Only pre defined methods will be
+```ruby
+
+alias
+__send__
+object_id
+
+```
 
 Have fun metaprogramming! :)
